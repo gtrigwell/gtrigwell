@@ -3,7 +3,7 @@
 Computer Science graduate specialising in cybersecurity and industrial control systems. Recently completed EPSRC/NCSC-funded research on vulnerability assessment frameworks.
 
 ## 🎯 About Me
-- 🎓 **Computer Science Graduate** from Cardiff University (First Class Honours)
+- 🎓 **Computer Science Graduate** from Cardiff University (First Class)
 - 🔐 **Cybersecurity Specialist** - SANS Institute trained through CyberStart programme
 - 🏭 **Industrial Security Researcher** (EPSRC/NCSC-funded through RITICS)
 - 💰 **FinTech Developer** - Building portfolio management systems and trading tools
@@ -67,7 +67,7 @@ Computer Science graduate specialising in cybersecurity and industrial control s
 
 ## 🌱 What's Next
 
-- 📚 **Expanding Research**: Building on ICS security findings for potential publication
+- 📚 **Expanding Research**: Building on ICS security findings and awaiting publication
 - 🛠️ **Tool Development**: Creating practical cybersecurity assessment tools
 - 🎵 **Side Projects**: Music production tools and financial trading analysis
 - 📈 **Continuous Learning**: Staying current with emerging cybersecurity threats
